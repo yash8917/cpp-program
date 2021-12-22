@@ -11,7 +11,6 @@ int main()
     {
         cin>>a[i];
     }
-
     int size2,j;
     cout<<"enter the size of second  array";
     cin>>size2;
