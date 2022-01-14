@@ -17,7 +17,6 @@ int main()
                 t=a[x];
                 a[x]=a[y];
                 a[y]=t;
-
             }
         }
     }
