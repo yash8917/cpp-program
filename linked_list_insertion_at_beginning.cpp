@@ -13,7 +13,6 @@ class linked_list
      {
          head=NULL;
      }
-
      // add new element at the beginning of the linked list
      void insert_at_beginning(int new_element)
      {
