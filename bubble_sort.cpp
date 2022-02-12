@@ -25,6 +25,5 @@ for(y=0;y<10;y++)
     {
         cout<<a[y];
     }
- return 0;
-    
+ return 0; 
 }
