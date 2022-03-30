@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
-    
+   
     int  size,item,i;
     cout<<"enter the size of array";
     cin>>size;
