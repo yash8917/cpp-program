@@ -17,6 +17,7 @@ int main()
     cin>>size2;
     int b[size2];
     cout<<"enter the elements of second  array";
+    
     for(j=0;j<size2;j++)
     {
         cin>>b[j];
