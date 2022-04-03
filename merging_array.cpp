@@ -21,6 +21,7 @@ int main()
     {
         cin>>b[j];
     }
+    
 int c[size1+size2];
 for(i=0;i<size1;i++)
 {
